@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StarShips</string>
+    <string name="textViewNombreItemListado">Nombre</string>
+    <string name="textViewDescripcion">Descripción</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <string name="nameTitle">Name</string>
+    <string name="modelTitle">Model</string>
+    <string name="classTitle">Class</string>
+    <string name="manufactererTitle">Manufacturer</string>
+    <string name="lengthTitle">Length</string>
+    <string name="crewTitle">Crew</string>
+    <string name="costTitle">Cost In Credits</string>
+</resources>
