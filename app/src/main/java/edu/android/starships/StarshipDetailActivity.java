@@ -29,7 +29,9 @@ public class StarshipDetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detalle);
         
         Bundle extras = getIntent().getExtras();
-        //StarshipPost extras = (StarshipPost) getIntent().getSerializableExtra("starship");
+
+        // 
+        // StarshipPost extras = (StarshipPost) getIntent().getSerializableExtra("starship");
 
         String name;
         String model;
